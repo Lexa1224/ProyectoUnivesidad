@@ -8,6 +8,7 @@ int main(int argc, char** argv) {
 	//Fabio agrego este comentario
 	cout<<"Hola fui escrito en la maquina de Alex"<<endl;
 	//francisco agrego comentario
+	// francisco modificando el codigo 
 	return 0;
 }
 
