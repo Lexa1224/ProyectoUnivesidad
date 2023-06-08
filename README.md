@@ -1,2 +1,0 @@
-# ProyectoUnivesidad
-Proyecto de universidad
