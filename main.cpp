@@ -9,6 +9,9 @@ int main(int argc, char** argv) {
 	cout<<"Hola fui escrito en la maquina de Alex"<<endl;
 	//francisco agrego comentario
 	// francisco modificando el codigo 
+	
+	//hola francisco y fabio
+	
 	return 0;
 }
 
