@@ -1,0 +1,85 @@
+
+*********************************
+Nombre: Alexander
+Apellido: Lopez
+Fecha de nacimiento: 1996
+Cargo Ocupado: gerente
+
+******************************************************************
+Nombre: 
+Apellido: Juanito 
+*********************************
+Nombre: ramon
+Apellido: cio
+Fecha de nacimiento: 1998
+Cargo Ocupado: vendedor
+
+******************************************************************
+Nombre: 
+*********************************
+Nombre: asda
+Apellido: asda
+Fecha de nacimiento: ddd
+Cargo Ocupado: asd
+
+******************************************************************
+Nombre: 
+*********************************
+Nombre: alfredi
+Apellido: espino
+Fecha de nacimiento: 1938
+Cargo Ocupado: escritor
+
+******************************************************************
+Nombre: 
+*********************************
+Nombre: asd
+Apellido: asd
+Fecha de nacimiento: asd
+Cargo Ocupado: d
+
+******************************************************************
+Nombre: 
+Apellido: asd
+Fecha de nacimiento: d
+Cargo Ocupado: sd
+
+******************************************************************
+Nombre: asd
+Apellido: asd
+Fecha de nacimiento: d
+Cargo Ocupado: s
+
+******************************************************************
+Nombre: 
+*********************************
+Nombre: fgdfg
+Apellido: gdf
+Fecha de nacimiento: rt
+Cargo Ocupado: hjgh
+
+******************************************************************
+Nombre: 
+Apellido: ghfgh
+Fecha de nacimiento: jjj
+Cargo Ocupado: gg
+
+******************************************************************
+Nombre: Alexander
+Apellido: Lopeza
+Fecha de nacimiento: 1996
+Cargo Ocupado: gerente
+
+******************************************************************
+Nombre: juanito
+Apellido: tenanzin
+Fecha de nacimiento: 1998
+Cargo Ocupado: sub gerente
+
+******************************************************************
+Nombre: ramon
+Apellido: gonzalez
+Fecha de nacimiento: 1938
+Cargo Ocupado: vendedor
+
+*********************************
