@@ -139,4 +139,74 @@ lecturaArchivo.close();
 
 /*FIN LA FUNCION DE LECTURA EN EL ARCHIVO*/
 /*-------------------------------------------------------------------------------------------------------*/
+
 //x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0
+/*-------------------------------------------------------------------------------------------------------*/
+
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+/*xpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxxppxpxxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxxpxpxp*/
+/*creando clase empleado y sus atributos
+
+class Empleado {
+protected:
+    string nombre;
+    string apellido;
+    string rol;
+    double salario;
+public:
+    Empleado(const string& nombre, const string& apellido, const string& rol, double salario)
+        : nombre(nombre), apellido(apellido), rol(rol), salario(salario) {}
+
+    virtual void imprimirDatos() {
+        cout << "Nombre: " << nombre << endl;
+        cout << "Apellido: " << apellido << endl;
+        cout << "Rol: " << rol << endl;
+        cout << "Salario: " << salario << endl;
+    }
+
+    virtual ~Empleado() {} // Agregamos un destructor virtual
+};
+
+class Tecnico : public Empleado {
+protected:
+    int horasTrabajadas;
+public:
+    Tecnico(const string& nombre, const string& apellido, const string& rol, double salario, int horasTrabajadas)
+        : Empleado(nombre, apellido, rol, salario), horasTrabajadas(horasTrabajadas) {}
+
+    void imprimirDatos() override {
+        Empleado::imprimirDatos();
+        cout << "Horas trabajadas: " << horasTrabajadas << endl;
+    }
+};
+
+class JefeArea : public Empleado {
+protected:
+    string nivel;
+public:
+    JefeArea(const string& nombre, const string& apellido, const string& rol, double salario, const string& nivel)
+        : Empleado(nombre, apellido, rol, salario), nivel(nivel) {}
+
+    void imprimirDatos() override {
+        Empleado::imprimirDatos();
+        cout << "Nivel: " << nivel << endl;
+    }
+};
+
+class Supervisor : public Empleado {
+protected:
+    int proyectos;
+public:
+    Supervisor(const string& nombre, const string& apellido, const string& rol, double salario, int proyectos)
+        : Empleado(nombre, apellido, rol, salario), proyectos(proyectos) {}
+
+    void imprimirDatos() override {
+        Empleado::imprimirDatos();
+        cout << "Proyectos: " << proyectos << endl;
+    }
+};
+/*fin de la clase empleado
+/*xpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxxppxpxxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxxpxpx*/
