@@ -267,7 +267,7 @@ int main() {
     while (true) {
         std::cout << "======= Menu principal =======\n";
         std::cout << "1. Ordenar empleados por nombre\n";
-        std::cout << "2.ordernar empleados por salario\n";
+        std::cout << "2. Ordernar empleados por salario\n";
         std::cout << "3. Mostrar lista de empleados por puesto\n";
         std::cout << "4. Anadir empleado\n";
         std::cout << "5. Salir\n";
