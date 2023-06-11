@@ -212,16 +212,8 @@ public:
 /*xpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxxppxpxxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxpxxpxpx*/
 
 
-///////////////////////////////////////////////////////////////////////////////////
-////////////////////// M E N U    P R I N C I P A L ///////////////////////////////
-///////////////////////////////////////////////////////////////////////////////////
-//Primer ejemplo para el menu, faltaria estandarizar las variables, anadir una opcion para ver la lista completa para todos los
-//los empleados
-/*
-#include <iostream>
-#include <vector>
-#include <algorithm>
 
+<<<<<<< HEAD
 struct Employee {
     std::string firstName;
     std::string lastName;
@@ -314,3 +306,5 @@ int main() {
     return 0;
 }
 */
+=======
+>>>>>>> db9e4de8da5282d2bddad56e75ff64cc70e1eac6

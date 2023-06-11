@@ -1,0 +1,7 @@
+*********************************
+Nombre: 
+Apellido: leiva
+Fecha de nacimiento: 1999
+Cargo Ocupado: operador
+
+*********************************
